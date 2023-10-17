@@ -1,6 +1,6 @@
 import React from "react";
 import Book from "./Book";
-import ShelfImage from "../media/207-2075695_wooden-shelf-png.png";
+import ShelfImage from "../media/wooden_selves.png";
 const Bookshelf = ({ books, title, setBooks }) => { // Destructuring props directly
 
   const renderBooks = () => {

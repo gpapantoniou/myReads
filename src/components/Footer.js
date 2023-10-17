@@ -1,6 +1,6 @@
 import React from "react";
 
-import home from "../media/home.png";
+import home from "../media/start_home.png";
 
 function Footer() {
   return (

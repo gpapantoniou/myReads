@@ -10,7 +10,7 @@ body {
 
 body,
 .app {
-  background-image: url("./media/brick2.jpg");
+  background-image: url("./media/brick_background.jpg");
   background-size: cover;
   background-position: center;
 }
